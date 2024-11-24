@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luc-Emile
-- 👀 I’m interested in Python, data science and machine learning
-- 🌱 I’m currently learning Data Scientist:Machine Learning career path on Codecademy
-- 💞️ I’m looking to collaborate on new portfolio projects
+- 👀 I want to become a full stack developer
+- 🌱 I’m currently learning html & css
+- 💞️ I’m looking to deliver saas or web applications
 - 📫 How to reach me ...
 
 <!---
